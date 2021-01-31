@@ -1,5 +1,5 @@
 # consensus-thresholding
-Python implementation of Betzel et al. (2018) distance-dependent consistency matrices.
+Python implementation of Betzel et al. (2018) distance-dependent consensus thresholds code.
 
 All rights reserved to Richard Betzel, Indiana University, 2018
 
